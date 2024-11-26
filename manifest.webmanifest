@@ -3,7 +3,7 @@
   "short_name": "test origin",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": "/test/",
+  "start_url": "/",
   "background_color": "#EF3124",
   "scope": "/"
 }
