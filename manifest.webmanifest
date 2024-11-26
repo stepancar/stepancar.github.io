@@ -1,0 +1,9 @@
+{
+  "name": "test origin",
+  "short_name": "test origin",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/test/",
+  "background_color": "#EF3124",
+  "scope": "/"
+}
