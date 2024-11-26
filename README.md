@@ -1,1 +1,1 @@
-# stepancar.github.io
+# Рут домен
